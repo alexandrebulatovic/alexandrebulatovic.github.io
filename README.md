@@ -29,7 +29,7 @@ En collaboration avec [Abdel Ait Abdelloili](https://fr.linkedin.com/in/ait-abde
 - création d'un menu et d'une vue permettant de zoomer sur une image
 - utilisation des objets [Material Design](https://fr.wikipedia.org/wiki/Material_design) de Google en gardant la rétrocompatibilité avec les appareils qui ne supportent pas ces objets
 
-Vidéo :
+Vidéo :  
 <a href="https://alexandrebulatovic.github.io/images/projet-android-acpi.gif">
 	<img src="https://alexandrebulatovic.github.io/images/projet-android-acpi.gif" width="300" alt="gif animé du projet android ACPI">
 </a>
