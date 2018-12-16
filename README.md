@@ -41,6 +41,21 @@ Le but du projet était de créer un site e-commerce vendant des produits quelco
 - utilisation d'une architecture MVC
 
 
+Captures d'écrans :  
+<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-1-php.png"> 
+	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-1-php.png" width="300">
+</a>
+<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-2-php.png"> 
+	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-2-php.png" width="300">
+</a>
+<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-3-php.png"> 
+	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-3-php.png" width="300">
+</a>
+<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-4-php.png"> 
+	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-4-php.png" width="300">
+</a>
+
+
 # Lors de la licence professionnelle ACPI
 
 ### Réalisation d'une application android en binôme
