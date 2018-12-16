@@ -26,9 +26,11 @@ Captures d'écrans :
 
 ### Réalisation d'un site e-Commerce PHP en binôme
 
-*Les fichiers du site sont en ligne :* https://github.com/alexandrebulatovic/projet_ecommerce
+*Les fichiers du site sont en ligne : [https://github.com/alexandrebulatovic/projet_ecommerce](https://github.com/alexandrebulatovic/projet_ecommerce)*
 
 Le but du projet était de créer un site e-commerce vendant des produits quelconque (dans notre cas des smartphones) utilisant la technologie PHP et réutilisant ce que l'on avait appris en cours de programmation web.
+
+En collaboration avec Jordan Barral.
 
 **Compétences :**
 - utilisation des langages HTML, CSS et PHP
@@ -43,7 +45,7 @@ Le but du projet était de créer un site e-commerce vendant des produits quelco
 
 Captures d'écrans :  
 <a href="https://alexandrebulatovic.github.io/images/screen-1-php.png"> 
-	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-1-php.png" width="300">
+	<img src="https://alexandrebulatovic.github.io/images/screen-1-php.png" width="300">
 </a>
 <a href="https://alexandrebulatovic.github.io/images/screen-2-php.png"> 
 	<img src="https://alexandrebulatovic.github.io/images/screen-2-php.png" width="300">
@@ -62,7 +64,7 @@ Captures d'écrans :
 
 Le but du projet était de réaliser une application Android qui "parse" (analyse) un fichier XML mis à disposition par le professeur sur internet et dont l'URL est à notre disposition. Des URL d'images et des informations sur ces images sont contenues dans le fichier XML. L'application stocke ces images dans sa mémoire cache et les affiche à l'utilisateur dans un menu. L'application devait être jolie (design) et facile à utiliser. En termes de fonctionnalités, il fallait pouvoir sélectionner une image et zoomer avec les doigts.
 
-En collaboration avec [Abdel Ait Abdelloili](https://fr.linkedin.com/in/ait-abdelloili)
+En collaboration avec [Abdel Ait Abdelloili.](https://fr.linkedin.com/in/ait-abdelloili)
 
 **Compétences :**
 - utilisation du langage JAVA avec Android Studio
