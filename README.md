@@ -26,7 +26,7 @@ Captures d'écrans :
 
 ### Réalisation d'un site e-Commerce PHP en binôme
 
-*Les fichiers du site sont en ligne : https://github.com/alexandrebulatovic/projet_ecommerce*
+*Les fichiers du site sont en ligne :* https://github.com/alexandrebulatovic/projet_ecommerce
 
 Le but du projet était de créer un site e-commerce vendant des produits quelconque (dans notre cas des smartphones) utilisant la technologie PHP et réutilisant ce que l'on avait appris en cours de programmation web.
 
