@@ -42,17 +42,17 @@ Le but du projet était de créer un site e-commerce vendant des produits quelco
 
 
 Captures d'écrans :  
-<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-1-php.png"> 
+<a href="https://alexandrebulatovic.github.io/images/screen-1-php.png"> 
 	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-1-php.png" width="300">
 </a>
-<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-2-php.png"> 
-	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-2-php.png" width="300">
+<a href="https://alexandrebulatovic.github.io/images/screen-2-php.png"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-2-php.png" width="300">
 </a>
-<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-3-php.png"> 
-	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-3-php.png" width="300">
+<a href="https://alexandrebulatovic.github.io/images/screen-3-php.png"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-3-php.png" width="300">
 </a>
-<a href="https://raw.githubusercontent.com/alexandrebulatovic/alexandrebulatovic.github.io/master/images/screen-4-php.png"> 
-	<img src="https://github.com/alexandrebulatovic/alexandrebulatovic.github.io/blob/master/images/screen-4-php.png" width="300">
+<a href="https://alexandrebulatovic.github.io/images/screen-4-php.png"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-4-php.png" width="300">
 </a>
 
 
