@@ -14,11 +14,11 @@ Captures d'écrans :
 <a href="https://alexandrebulatovic.github.io/images/screen-2-html.jpg"> 
 	<img src="https://alexandrebulatovic.github.io/images/screen-2-html.jpg" width="300">
 </a>
-<a href="https://alexandrebulatovic.github.io/images/screen-1-html.jpg"> 
-	<img src="https://alexandrebulatovic.github.io/images/screen-1-html.jpg" width="300">
-</a>
 <a href="https://alexandrebulatovic.github.io/images/screen-4-html.jpg"> 
 	<img src="https://alexandrebulatovic.github.io/images/screen-4-html.jpg" width="300">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-1-html.jpg"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-1-html.jpg" width="300">
 </a>
 <a href="https://alexandrebulatovic.github.io/images/screen-3-html.jpg"> 
 	<img src="https://alexandrebulatovic.github.io/images/screen-3-html.jpg" width="300">
