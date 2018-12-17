@@ -78,3 +78,39 @@ Vidéo :
 <a href="https://alexandrebulatovic.github.io/images/projet-android-acpi.gif">
 	<img src="https://alexandrebulatovic.github.io/images/projet-android-acpi.gif" width="300" alt="gif animé du projet android ACPI">
 </a>
+
+### Réalisation d'une application de gestion de stocks de magasin en binôme
+
+Le but de ce petit projet était de réaliser une application Java avec une architecture "en couches" qui permettrait facticement à un magasin de gérer ses stocks de produits, tout en nous permettant d'expérimenter la persistence des données à l'aide de fichiers XML, et plus classiquement à l'aide d'une base de données Oracle. Un "squelette" de base du projet était fourni par le professeur et il fallait compléter le reste en utilisant ce que l'on avait appris en cours de modélisation UML, base de données et programmation orientée objet.
+
+En collaboration avec [Adrian Maury.](https://fr.linkedin.com/in/mauryadrian)
+
+**Compétences :**
+- utilisation du langage JAVA avec l'IDE Eclipse
+- utilisation de la bibliothèque [JDOM](https://fr.wikipedia.org/wiki/JDOM) pour manipuler les fichiers XML
+- utilisation de plusieurs [design patterns](https://fr.wikipedia.org/wiki/Patron_de_conception) dont [observateur](https://fr.wikipedia.org/wiki/Observateur_(patron_de_conception)) et [factory](https://fr.wikipedia.org/wiki/Fabrique_(patron_de_conception))
+- création de diagrammes UML sur l'architecture du programme
+
+
+Captures d'écrans :  
+<a href="https://alexandrebulatovic.github.io/images/screen-1-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-1-java.JPG" width="250">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-3-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-3-java.JPG" width="300">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-2-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-2-java.JPG" width="150">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-5-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-5-java.JPG" width="110">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-6-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-6-java.JPG" width="160">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-4-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-4-java.JPG" width="170">
+</a>
+<a href="https://alexandrebulatovic.github.io/images/squelette-xml.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/squelette-xml.JPG" width="170">
+</a>
