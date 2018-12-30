@@ -26,7 +26,7 @@ Captures d'écrans :
 
 ### Réalisation d'un site e-Commerce PHP en binôme
 
-*Les fichiers du site sont en ligne : [https://github.com/alexandrebulatovic/projet_ecommerce](https://github.com/alexandrebulatovic/projet_ecommerce)*
+*[Cliquez ici pour voir les sources, le modèle physique des données, les tests, le script SQL...](https://github.com/alexandrebulatovic/projet_ecommerce)*
 
 Le but du projet était de créer un site e-commerce vendant des produits quelconque (dans notre cas des smartphones) utilisant la technologie PHP et réutilisant ce que l'on avait appris en cours de programmation web.
 
@@ -81,7 +81,9 @@ Vidéo :
 
 ### Réalisation d'une application de gestion de stocks de magasin en binôme
 
-Le but de ce petit projet était de réaliser une application Java avec une architecture "en couches" qui permettrait facticement à un magasin de gérer ses stocks de produits, tout en nous permettant d'expérimenter la persistence des données à l'aide de fichiers XML, et plus classiquement à l'aide d'une base de données Oracle. Un "squelette" de base du projet était fourni par le professeur et il fallait compléter le reste en utilisant ce que l'on avait appris en cours de modélisation UML, base de données et programmation orientée objet.
+*[Cliquez ici pour voir les sources, diagrammes de classes, les tests, le script SQL ou télécharger le .JAR exécutable...](https://github.com/alexandrebulatovic/projet_gestion_stocks_magasin)*
+
+Le but de ce projet était de réaliser une application Java avec une architecture "en couches" (proche du MVC) qui permettrait facticement à un magasin de gérer ses stocks de produits, tout en nous permettant d'expérimenter la persistence des données à l'aide de fichiers XML, et plus classiquement à l'aide d'une base de données Oracle. Un "squelette" de base du projet était fourni par le professeur et il fallait compléter le reste en utilisant ce que l'on avait appris en cours de modélisation UML, base de données et programmation orientée objet.
 
 En collaboration avec [Adrian Maury.](https://fr.linkedin.com/in/mauryadrian)
 
@@ -90,6 +92,7 @@ En collaboration avec [Adrian Maury.](https://fr.linkedin.com/in/mauryadrian)
 - utilisation de la bibliothèque [JDOM](https://fr.wikipedia.org/wiki/JDOM) pour manipuler les fichiers XML
 - utilisation de plusieurs [design patterns](https://fr.wikipedia.org/wiki/Patron_de_conception) dont [observateur](https://fr.wikipedia.org/wiki/Observateur_(patron_de_conception)), [factory](https://fr.wikipedia.org/wiki/Fabrique_(patron_de_conception)) et [singleton](https://fr.wikipedia.org/wiki/Singleton_(patron_de_conception))
 - création de diagrammes UML sur l'architecture du programme
+- utilisation du framework [JUnit](https://fr.wikipedia.org/wiki/JUnit) pour les tests unitaires
 
 
 Captures d'écrans :  
