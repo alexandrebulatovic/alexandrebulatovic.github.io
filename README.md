@@ -83,7 +83,7 @@ Vidéo :
 
 *[Cliquez ici pour voir les sources, diagrammes de classes, les tests, le script SQL ou télécharger le .JAR exécutable...](https://github.com/alexandrebulatovic/projet_gestion_stocks_magasin)*
 
-Le but de ce projet était de réaliser une application Java avec une architecture "en couches" (proche du MVC) qui permettrait facticement à un magasin de gérer ses stocks de produits, tout en nous permettant d'expérimenter la persistance des données à l'aide de fichiers XML, et plus classiquement à l'aide d'une base de données Oracle. Un "squelette" de base du projet était fourni par le professeur et il fallait compléter le reste en utilisant ce que l'on avait appris en cours de modélisation UML, base de données et programmation orientée objet.
+Le but de ce projet était de réaliser une application Java avec une architecture "en couches" (proche du MVC) qui permettrait facticement à un magasinier de gérer ses stocks de produits, tout en nous permettant d'expérimenter la persistance des données à l'aide de fichiers XML, et plus classiquement à l'aide d'une base de données Oracle. Un "squelette" de base du projet était fourni par le professeur et il fallait compléter le reste en utilisant ce que l'on avait appris en cours de modélisation UML, base de données et programmation orientée objet.
 
 En collaboration avec [Adrian Maury.](https://fr.linkedin.com/in/mauryadrian)
 
