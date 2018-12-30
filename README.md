@@ -114,6 +114,10 @@ Captures d'écrans :
 <a href="https://alexandrebulatovic.github.io/images/screen-4-java.JPG"> 
 	<img src="https://alexandrebulatovic.github.io/images/screen-4-java.JPG" width="170">
 </a>
+</a>
+<a href="https://alexandrebulatovic.github.io/images/screen-7-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-7-java.JPG" width="140">
+</a>
 <a href="https://alexandrebulatovic.github.io/images/squelette-xml.JPG"> 
 	<img src="https://alexandrebulatovic.github.io/images/squelette-xml.JPG" width="170">
 </a>
