@@ -89,6 +89,7 @@ En collaboration avec [Adrian Maury.](https://fr.linkedin.com/in/mauryadrian)
 
 **Compétences :**
 - utilisation du langage JAVA avec l'IDE Eclipse
+- utilisation de la bibliothèque graphique [Swing](https://fr.wikipedia.org/wiki/Swing_(Java))
 - utilisation de la bibliothèque [JDOM](https://fr.wikipedia.org/wiki/JDOM) pour manipuler les fichiers XML
 - utilisation de plusieurs [design patterns](https://fr.wikipedia.org/wiki/Patron_de_conception) dont [observateur](https://fr.wikipedia.org/wiki/Observateur_(patron_de_conception)), [factory](https://fr.wikipedia.org/wiki/Fabrique_(patron_de_conception)) et [singleton](https://fr.wikipedia.org/wiki/Singleton_(patron_de_conception))
 - création de diagrammes UML sur l'architecture du programme
