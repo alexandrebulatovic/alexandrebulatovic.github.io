@@ -12,7 +12,7 @@ sass:
 collections:
   post:
     output: true
-    sort_by: rank
+    #sort_by: rank
     permalink: /:slug
     
 plainwhite:

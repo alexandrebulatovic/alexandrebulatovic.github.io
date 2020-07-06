@@ -3,7 +3,7 @@ layout: post
 title:  Android app fetching images from online XML data into a local gallery
 categories: [Java, Android, XML, Material Design]
 slug: android-app-fetching-images-from-online-xml-data-into-a-local-gallery
-rank: 3
+rank: 4
 ---
 
 This project's goal was to create an Android native application executing a list of tasks given by our teacher.

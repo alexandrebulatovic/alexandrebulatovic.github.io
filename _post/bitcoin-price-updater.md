@@ -3,7 +3,7 @@ layout: post
 title:  Bitcoin price update pop-up
 categories: JFreeChart Gson Java Apache
 slug: bitcoin-price-updater
-rank: 1
+rank: 5
 ---
 
 This personal project was primarily made for fun in 2018. 
