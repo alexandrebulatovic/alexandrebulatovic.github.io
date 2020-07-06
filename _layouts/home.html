@@ -10,7 +10,8 @@ layout: default
 
 {%- if site.post.size > 0 -%}
   <ul class="posts">
-    {%- for post in site.post -%}
+{% assign sorted = site.post | sort: 'rank' | reverse %}
+    {%- for post in sorted -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
           <h2 class="post-title">{{ post.title | escape }}</h2>
