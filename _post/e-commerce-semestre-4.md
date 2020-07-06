@@ -3,7 +3,7 @@ layout: post
 title:  Smartphones online shop
 categories: HTML CSS PHP MySQL
 slug: smartphones-online-shop
-rank: 3
+rank: 4
 ---
 
 This project is a level up from our [first static website]({%link _post/static-website-semestre-1.md %}).

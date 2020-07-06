@@ -3,7 +3,7 @@ layout: post
 title:  Creating a static website presenting our school curriculum
 categories: HTML CSS
 slug: creating-a-static-website-presenting-our-school-curriculum
-rank: 4
+rank: 5
 ---
 
 This project's aim was to put into practice our learning from primer Web development class's.

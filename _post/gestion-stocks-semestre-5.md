@@ -3,7 +3,7 @@ layout: post
 title:  Inventory management software
 categories: Java Swing JDOM JUnit TDD XML Oracle
 slug: inventory-management-software
-rank: 1
+rank: 2
 ---
 
 This project's goal was to create a Java software facilitating the management of product inventory for a warehouse clerk.
