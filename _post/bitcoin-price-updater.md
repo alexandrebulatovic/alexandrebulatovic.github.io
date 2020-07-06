@@ -6,7 +6,7 @@ slug: bitcoin-price-updater
 rank: 1
 ---
 
-This personal project was primarily made for fun in 2019. 
+This personal project was primarily made for fun in 2018. 
 
 It also served to experiment how to draw charts with Java using [JFreeChart](http://www.jfree.org/jfreechart/), how to use JSON resources (using [Gson library](https://en.wikipedia.org/wiki/Gson)) and how to consume an API with a GET request (using [Apache HttpClient library](http://hc.apache.org/index.html)).
 
@@ -27,13 +27,13 @@ If the new updated price is higher than the previous one, the price will turn gr
 The design is open for extension if we want to add a new cryptocurrency by implementing AbstractCryptocurrencyController class. The default and unique current implementation is for Bitcoin.  
 
 
-<a href="https://raw.githubusercontent.com/alexandrebulatovic/bitcoin_price_updater/master/design-diagrams/personal-project-bitcoin.PNG"> 
-	<img src="https://github.com/alexandrebulatovic/bitcoin_price_updater/blob/master/design-diagrams/personal-project-bitcoin.PNG" width="750">
+<a href="https://raw.githubusercontent.com/alexandrebulatovic/bitcoin_price_updater/master/design-diagrams/personal-project-bitcoin.png"> 
+	<img src="https://raw.githubusercontent.com/alexandrebulatovic/bitcoin_price_updater/master/design-diagrams/personal-project-bitcoin.png" width="750">
 </a>
 
 
 **Screenshots :**  
-<a href="https://alexandrebulatovic.github.io/images/screen-8-php.png"> 
-	<img src="https://alexandrebulatovic.github.io/images/screen-8-php.png" width="300">
+<a href="https://alexandrebulatovic.github.io/images/screen-8-java.JPG"> 
+	<img src="https://alexandrebulatovic.github.io/images/screen-8-java.JPG" width="300">
 </a>  
 *[Click here to see the source code or download the executable file...](https://github.com/alexandrebulatovic/bitcoin_price_updater)*
