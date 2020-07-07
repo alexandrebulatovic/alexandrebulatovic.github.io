@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Dockerized Spring Batch importing data from Excel into an in-memory database
-categories: Java SpringBatch SpringBoot SpringData Hibernate JPA HSQLDB
+categories: Java SpringBatch SpringBoot SpringData Hibernate JPA HSQLDB Maven
 slug: dockerized-spring-batch
 rank: 6
 ---
 
-This personal project was made for in 2020 as a way to experiment with Spring Batch and Docker containerization.
+This personal project was made in 2020 as a way to experiment with Spring Batch and Docker containerization.
 
 It is a simple batch importing data from a CSV file "sample-data.csv" into an [in-memory database](https://en.wikipedia.org/wiki/HSQLDB).
 
@@ -22,4 +22,4 @@ In order to run the program, you need [Docker](https://www.docker.com/products/d
 - using Spring Data JPA for database layer
 - "containerize" a batch with Docker
 
-*[Click here to see the source code and test the program...](https://github.com/alexandrebulatovic/dockerized-spring-batch)*
+*[Click here to see the source code (maven project) and test the program...](https://github.com/alexandrebulatovic/dockerized-spring-batch)*
