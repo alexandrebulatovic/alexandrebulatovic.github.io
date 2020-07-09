@@ -16,7 +16,8 @@ After 60 seconds of inactivity, the Consumer will shut down automatically.
 
 
 **Skills :**
-- using Apache Kafka
+- using Apache Kafka to implement a publish–subscribe architecture
 - create a Maven java project
+
 
 *[Click here to see the source code and test the program...](https://github.com/alexandrebulatovic/kafka-minimal-example)*
