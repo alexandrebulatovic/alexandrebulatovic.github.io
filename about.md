@@ -4,6 +4,8 @@ layout: page
 
 # About me
 
+[Here is my resume.](Alexander_Bulatovic_Java_developer.pdf)
+
 I am a currently working as a junior Java developer in Avignon, France. I graduated in Computer Science from the University Institute of Technology of Montpellier in 2017 after my internship at one of the Sanofi R&D centers in Montpellier.
 
 After that I did a gap year learning about banking and finance, especially how the financial markets operate. I started investing in cryptocurrencies in 2018 while learning about technical analysis and then went on learning about capital markets and leaving cryptocurrencies behind, gradually learned about financial analysis and other factors driving markets. I keep up to date with the world news almost everyday as I am currently investing in the US and European stock markets, using options for hedging/leverage or plain stocks.
