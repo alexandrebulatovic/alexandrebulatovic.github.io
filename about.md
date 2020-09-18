@@ -19,6 +19,6 @@ Here is a list of the IT skills I presently use:
 **Frameworks** : Spring Batch, Spring Data, Spring Boot, Spring MVC (only for RESTful Web Services), Hibernate  
 **Infrastructure** : Apache Kafka, Docker, Jenkins  
 
-I am open to opportunities in London (my preference) or Paris and I would like to work with people involved in the finance industry (wealth management or portfolio management).
+I am open to opportunities in London and I would like to work with people involved in the finance industry (wealth management or portfolio management).
 
 You can contact me at the following address : alexandre.bulatovic[at]gmail.com
