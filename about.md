@@ -16,7 +16,7 @@ I am presently working as a consultant for Arηs Cube at a European Union instit
 
 Here is a list of the IT skills I presently use:  
 **Programming languages** : Java 8, Angular 10, PL/SQL and SQL  
-**Frameworks** : Spring (Boot, MVC, Webflux, Cloud...), JUnit, Mockito, Jasmine, Express.js
+**Frameworks** : Spring (Boot, MVC, Webflux, Cloud...), JUnit, Mockito, Jasmine, Express.js  
 **Infrastructure** : Docker, Jenkins
 
 You can contact me at the following address : alexandre.bulatovic[at]gmail.com
