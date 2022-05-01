@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "plainwhite"
-  spec.version       = "0.9"
+  spec.version       = "0.13"
   spec.authors       = ["Alexandre Bulatovic"]
 
   spec.summary       = "Portfolio of Alexandre Bulatovic"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|404.html|sitemap.xml)!i) }
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|404.html|sitemap.xml)!i) }
 
   spec.add_runtime_dependency "jekyll", ">= 3.7.3"
   spec.add_runtime_dependency "jekyll-seo-tag", ">= 2.1.0"
