@@ -1,10 +1,9 @@
 title: Alexandre Bulatović
 author: Alexandre Bulatović
 #email: your-email@domain.com
-description:
-  Alexandre Bulatović portfolio and résumé.
+description: Alexandre Bulatović portfolio and résumé.
 #set to true to show excerpts on the homepage
-show_excerpts: true 
+show_excerpts: true
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
@@ -14,7 +13,7 @@ collections:
     output: true
     #sort_by: rank
     permalink: /:slug
-    
+
 plainwhite:
   name: Alexandre Bulatović
   tagline: Software Developer
@@ -28,7 +27,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    github:  alexandrebulatovic
+    github: alexandrebulatovic
     linkedIn: in/alexandre-bulatović-119a841a3/
     #rss: rss
     # dribbble: jekyll
@@ -57,7 +56,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
