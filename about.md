@@ -17,7 +17,7 @@ I am presently working as a consultant for Arηs Cube at a European Union instit
 Here is a list of the IT skills I presently use:  
 **Programming languages** : Java 11, Angular 15, PL/SQL and SQL  
 **Frameworks** : Spring (Boot, MVC, Webflux, Cloud...), JUnit, Mockito, Jasmine, Express.js  
-**Infrastructure** : Docker, Jenkins
+**Infrastructure** : Docker, Jenkins  
 **Tools** : IntelliJ, Eclipse, VS Code, SQL Developer, DBeaver, Remmina (SSH and SFTP remote access)
 
 You can contact me at the following address : alexandre.bulatovic[at]gmail.com
