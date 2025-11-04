@@ -15,8 +15,9 @@ Teaching myself involved doing the [ITPM](https://www.itpm.com/) Professional FO
 I am presently working as a consultant for Arηs Cube at a European Union institution, in a team that is maintaining and developing new applications used for the management of human resources.
 
 Here is a list of the IT skills I presently use:  
-**Programming languages** : Java 8, Angular 10, PL/SQL and SQL  
+**Programming languages** : Java 11, Angular 15, PL/SQL and SQL  
 **Frameworks** : Spring (Boot, MVC, Webflux, Cloud...), JUnit, Mockito, Jasmine, Express.js  
 **Infrastructure** : Docker, Jenkins
+**Tools** : IntelliJ, Eclipse, VS Code, SQL Developer, DBeaver, Remmina (SSH and SFTP remote access)
 
 You can contact me at the following address : alexandre.bulatovic[at]gmail.com
